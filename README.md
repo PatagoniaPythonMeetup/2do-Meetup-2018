@@ -4,5 +4,9 @@ Charlas
 
 - Introducción Python - Alexandra Trujillo (IPCSH-CONICET).
 - Introducción a JupyterLab - Pablo Navarro (IPCSH-CONICET/UNPSJB).
-- Computación corporal: Expansión de la sensibilidad computacional hacia mejores experiencias de usuario - Leo Morales y Bruno Pazos (IPCSH-CONICET/UNPSJB).
 - Introducción a OpenCL con PyOpenCL - Cristian Pacheco (IPEEC-CONICET/UNPSJB)
+
+Lenguaje Invitado: Java
+
+- Computación corporal: Expansión de la sensibilidad computacional hacia mejores experiencias de usuario - Leo Morales y Bruno Pazos (IPCSH-CONICET/UNPSJB).
+
